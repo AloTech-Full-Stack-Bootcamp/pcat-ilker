@@ -1,0 +1,19 @@
+{
+  "name": "pcat-ilker",
+  "version": "1.0.0",
+  "description": "pcat-fullstack project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AloTech-Full-Stack-Bootcamp/pcat-ilker.git"
+  },
+  "author": "Ilker Kurtulan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AloTech-Full-Stack-Bootcamp/pcat-ilker/issues"
+  },
+  "homepage": "https://github.com/AloTech-Full-Stack-Bootcamp/pcat-ilker#readme"
+}
